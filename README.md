@@ -1,3 +1,5 @@
+Seethis also : http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/#.Wk_heb-gf4Y
+--------------------------------------------------------------------
 # Node.ts
 
 ## TypeScript Node.js REST example
